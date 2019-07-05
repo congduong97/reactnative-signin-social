@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "91321381305",
+    "firebase_url": "https://reactlogin-d60b1.firebaseio.com",
+    "project_id": "reactlogin-d60b1",
+    "storage_bucket": "reactlogin-d60b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91321381305:android:c4aa3c95b468c259",
+        "android_client_info": {
+          "package_name": "com.demologin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91321381305-qdkoul7mns7ue53c0pqd6ob9lcl0fb8i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.demologin",
+            "certificate_hash": "78b8f324e92e9df169d181c066f9aeaa97141845"
+          }
+        },
+        {
+          "client_id": "91321381305-5aondmjp7pjlbd4uq8138cl4b30j54nk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiL-JMZ0Ei_hT8O3lf2SfmaDH6r4QFnwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91321381305-5aondmjp7pjlbd4uq8138cl4b30j54nk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
